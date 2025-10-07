@@ -1,0 +1,9 @@
+[
+  {
+    "model": "groq/compound",
+    "api_key": "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",
+    "base_url": "https://api.groq.com/openai/v1",
+    "temperature": 0.3,
+    "max_tokens": 8192
+  }
+]

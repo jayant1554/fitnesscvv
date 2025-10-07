@@ -1,0 +1,17 @@
+streamlit
+streamlit_webrtc
+scikit-learn
+pandas
+keras
+notebook
+numpy 
+Markdown
+ipykernel
+ipython
+mediapipe
+pillow
+opencv-python
+opencv-contrib-python
+tensorflow
+torch
+flask
